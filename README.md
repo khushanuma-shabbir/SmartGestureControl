@@ -20,12 +20,6 @@ Control your PC with just your **index finger** 🖐️ — no mouse or touch ne
 ✅ Works with external or phone camera
 
 ---
-
-## 🚀 Demo
-https://github.com/YOUR_USERNAME/SmartGestureControl/assets/your-demo.mp4 *(optional)*
-
-
-
 ## ⚙️ Requirements
 
 Install dependencies using pip:
